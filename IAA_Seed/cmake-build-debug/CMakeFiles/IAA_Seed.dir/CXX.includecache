@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nicolasrojasmorales/CLionProjects/IAA_Seed/IOProcedures.h
+stdlib.h
+-
+
+/Users/nicolasrojasmorales/CLionProjects/IAA_Seed/main.cpp
+iostream
+-
+IOProcedures.h
+/Users/nicolasrojasmorales/CLionProjects/IAA_Seed/IOProcedures.h
+

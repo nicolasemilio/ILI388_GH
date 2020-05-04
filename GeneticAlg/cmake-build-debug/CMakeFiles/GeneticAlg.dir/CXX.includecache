@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nicolasrojasmorales/Documents/Clases/INF388 - 2020/ILI388/GeneticAlg/globales.h
+
+/Users/nicolasrojasmorales/Documents/Clases/INF388 - 2020/ILI388/GeneticAlg/includes.h
+list
+-
+vector
+-
+set
+-
+queue
+-
+iostream
+-
+sstream
+-
+string.h
+-
+algorithm
+-
+fstream
+-
+math.h
+-
+stdlib.h
+-
+sys/time.h
+-
+sys/types.h
+-
+signal.h
+-
+time.h
+/Users/nicolasrojasmorales/Documents/Clases/INF388 - 2020/ILI388/GeneticAlg/time.h
+
+/Users/nicolasrojasmorales/Documents/Clases/INF388 - 2020/ILI388/GeneticAlg/main.cpp
+includes.h
+/Users/nicolasrojasmorales/Documents/Clases/INF388 - 2020/ILI388/GeneticAlg/includes.h
+globales.h
+/Users/nicolasrojasmorales/Documents/Clases/INF388 - 2020/ILI388/GeneticAlg/globales.h
+
